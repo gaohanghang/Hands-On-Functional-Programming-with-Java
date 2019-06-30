@@ -9,7 +9,5 @@ public class ArrayListLinkedList {
         System.out.println(arrayNumbers.get(3));
         arrayNumbers.set(3,42);
         System.out.println(arrayNumbers.get(3));
-
-
     }
 }

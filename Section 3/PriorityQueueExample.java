@@ -16,7 +16,5 @@ public class PriorityQueueExample {
         for (var lang:languages){
             System.out.println(lang);
         }
-
-
     }
 }

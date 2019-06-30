@@ -13,6 +13,5 @@ public class Parallel {
         System.out.println("the number of evens: "+counted + "time for execution: "+duration);
         //2399 millis
         //655 millis
-
     }
 }

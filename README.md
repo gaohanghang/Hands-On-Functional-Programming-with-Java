@@ -1,45 +1,25 @@
-# Hands-On Functional Programming with Java [Video]
-This is the code repository for [Hands-On Functional Programming with Java [Video]](https://www.packtpub.com/application-development/hands-functional-programming-java-video?utm_source=github&utm_medium=repository&utm_campaign=9781789804362), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
-## About the Video Course
-Functional programming, a popular programming paradigm used to simplify many tasks, will help you write flexible and succinct code. This paradigm makes programs easier to reason with because they're deterministic (one specific input will always give you the same output).
-This course takes a thought-leadership approach, gently introduces you to Functional Programming, and takes you all the way to becoming a master of the paradigm. You'll then learn how to work with higher-order functions, lambda functions, collections and more. You'll learn how to apply the best data structures and algorithms that optimize functions and also how to reuse and refactor functional blocks of code. This course is updated to Java 12 so that you will be ahead of the crowd. 
-By the end of the course, you will have mastered the concepts regarding functional programming along with OOP, to build robust and highly testable applications.
+# 使用Java进行函数式编程[视频]
 
-<H2>What You Will Learn</H2>
-<DIV class=book-info-will-learn-text>
-<UL>
-<LI>Utilize the functional programming paradigm on practical problems in Java. 
-<LI>You will be able to create robust software with few errors. 
-<LI>Discover the Java Stream interface for developing functional source code. 
-<LI>Implement lambda expressions all through your code, making it more readable and maintainable. 
-<LI>You will implement the Collections framework and all of its interfaces. 
-</LI></UL></DIV>
+这是[Packt](https://www.packtpub.com/?utm_source=github)出版的[Java [视频\]动手功能编程](https://www.packtpub.com/application-development/hands-functional-programming-java-video?utm_source=github&utm_medium=repository&utm_campaign=9781789804362)的代码库。它包含从头到尾完成视频课程所需的所有支持项目文件。
 
-## Instructions and Navigation
-### Assumed Knowledge
-You can fully benefit from the coverage included in this course:<br/>
-If you are a Java developer and want to improve your applications using the functional programming approach, then this course is for you. A solid understanding of Java concepts is required.
-### Technical Requirements
-This course has the following software requirements:<br/>
+## 关于视频课程
 
-For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
+函数式编程是一种用于简化许多任务的流行编程范例，它将帮助您编写灵活且简洁的代码。这种范式使程序更容易推理，因为它们是确定性的（一个特定的输入总是会给你相同的输出）。本课程采用思想领导的方法，轻轻地向您介绍功能编程，并带您一路成为范例的主人。然后，您将学习如何使用高阶函数，lambda函数，集合等。您将学习如何应用优化函数的最佳数据结构和算法，以及如何重用和重构功能代码块。本课程已更新至Java 12，以便您领先于人群。到课程结束时，
 
-OS:  Windows, Mac and Linux
-Processor: Intel i5
-Memory: 4GB
-Storage: 256GB
+## 你将学到什么
 
-Software Requirements:
+- 利用函数式编程范式解决Java中的实际问题。
+- 您将能够创建具有少量错误的强大软件。
+- 发现用于开发功能源代码的Java Stream界面。
+- 通过代码实现lambda表达式，使其更具可读性和可维护性。
+- 您将实现Collections框架及其所有接口。
 
-AWS account with appropriate IAM roles, Jupyter notebook, EC2 instances, and so on
-Operating system: Windows/Linux/OSX
-Browser: Firefox/Chrome/Safari
-Visual Studio Code IDE, latest version
+## 说明和导航
 
-## Related Products
-* [Hands-On Cryptography with Java [Video]](https://www.packtpub.com/application-development/hands-cryptography-java-video?utm_source=github&utm_medium=repository&utm_campaign=9781838554972)
+### 假设的知识
 
-* [Hands-On Object Oriented Programming with Java 11 [Video]](https://www.packtpub.com/application-development/hands-object-oriented-programming-java-11-video?utm_source=github&utm_medium=repository&utm_campaign=9781788997393)
+您可以从本课程中涵盖的范围中充分受益：
+如果您是Java开发人员并希望使用函数式编程方法来改进您的应用程序，那么本课程适合您。需要对Java概念有充分的了解。
 
-* [Hands-On OpenCV 4 with Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-opencv-4-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781789618464)
+
 

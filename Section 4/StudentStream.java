@@ -20,9 +20,9 @@ public class StudentStream {
         students.stream()
                 .sorted(Comparator.comparing(Student::getNumClassesTaken))
                 .forEach(s->System.out.println("Sorted by classes taken: "+s.getName()));
-
     }
 }
+
 class Student{
     String name;
     double average;

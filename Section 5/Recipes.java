@@ -20,8 +20,6 @@ public class Recipes {
                 .stream()
                 .flatMap(recipe -> recipes.get(recipe).stream())
                 .forEach(ingredient -> System.out.println(ingredient));
-
-
     }
 }
 class Recipe{
